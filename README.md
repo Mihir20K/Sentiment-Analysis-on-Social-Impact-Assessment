@@ -11,4 +11,6 @@ This project focuses on sentiment analysis of social media posts related to soci
 
 - `README.md`: [![Open in GitHub](https://img.shields.io/badge/Open%20in%20GitHub-Click%20here-red.svg)](https://github.com/Mihir20K/Sentiment-Analysis-on-Social-Impact-Assessment/edit/main/README.md)
 
+## Graphical Visualization of Sentiment Distribution
+![Sentiment Distribution](https://github.com/Mihir20K/Sentiment-Analysis-on-Social-Impact-Assessment/blob/main/sentiment_distribution.png)
 
